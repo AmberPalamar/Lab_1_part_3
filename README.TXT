@@ -19,3 +19,4 @@ list.
 Created student objects 
 Created LabClass object
 Created 3 students and added the details listed
+Can an object have several classes? Yes because an object can be classed into multiple different categories.
