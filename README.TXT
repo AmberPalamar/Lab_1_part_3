@@ -17,3 +17,5 @@ To use this project, create some Student objects, then create a LabClass object.
 Add the students to the class using the "enrolStudent" method. Print a class
 list.
 Created student objects 
+Created LabClass object
+Created 3 students and added the details listed
